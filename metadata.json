@@ -1,0 +1,8 @@
+{
+  "name": "Executive Resume Strategist",
+  "description": "An expert AI career coach that transforms your CV into a high-impact, ATS-optimized document using executive-level strategies and the STAR method.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
